@@ -1,10 +1,10 @@
 com\example\ArgPrograma\models\Proyecto.class
+com\example\ArgPrograma\ServletInitializer.class
+com\example\ArgPrograma\controllers\ProyectoController.class
 com\example\ArgPrograma\ArgProgramaApplication.class
 com\example\ArgPrograma\controllers\UsuarioController.class
 com\example\ArgPrograma\services\UsuarioService.class
 com\example\ArgPrograma\repositories\UsuarioRepository.class
 com\example\ArgPrograma\models\Usuario.class
 com\example\ArgPrograma\repositories\ProyectoRepository.class
-com\example\ArgPrograma\ServletInitializer.class
-com\example\ArgPrograma\controllers\ProyectoController.class
 com\example\ArgPrograma\services\ProyectoService.class
